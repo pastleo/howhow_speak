@@ -1,0 +1,12 @@
+<div class='mx-8'>
+  <div class='max-w-screen-lg my-8 mx-auto'>
+    <div class='relative pb-9/16 h-0'>
+      <div class='absolute top-0 left-0 w-full h-full' id='player'></div>
+    </div>
+  </div>
+  <div class='max-w-screen-lg m-4 mx-auto flex'>
+    <input id='text' class='flex-1 border border-solid border-green-500 rounded-l-lg p-3' value="你好">
+    <button id='speak' class='bg-green-500 rounded-r-lg p-3'>說話</button>
+  </div>
+</div>
+

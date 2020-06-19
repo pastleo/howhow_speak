@@ -8,5 +8,10 @@
     <input id='text' class='flex-1 border border-solid border-green-500 rounded-l-lg p-3' value="你好">
     <button id='speak' class='bg-green-500 rounded-r-lg p-3'>說話</button>
   </div>
+  <h3 class='text-center'>
+    <a target='_blank' href='https://github.com/pastleo/howhow_speak'>
+      https://github.com/pastleo/howhow_speak
+    </a>
+  </h3>
 </div>
 
